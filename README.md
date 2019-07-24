@@ -4,6 +4,7 @@ I have made my first Google Actions app based on a space-trivia game available o
 Space Geek will test your knowledge for space,cosmology and other theories along with fun facts.It is a 5 questions short quiz.
 
 HOW-TO-USE-THE-APP:
+
 Just on your Google Assistant ask "TALK TO SPACE GEEK".
 
 #Category
