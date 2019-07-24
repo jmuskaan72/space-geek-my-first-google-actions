@@ -16,3 +16,15 @@ Science and education
 For reviewing and more info about it:
 https://assistant.google.com/services/a/uid/000000b59a1ae49c?hl=en
 
+#AVAILABLE DEVICES:
+
+1.Google Home
+
+2.Android 5.0+ phones
+
+3.iOS 10.0+ devices
+
+4.Smart Displays
+
+5.Android 6.0+ tablets
+
